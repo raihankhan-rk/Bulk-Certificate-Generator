@@ -27,3 +27,8 @@ pip install Pillow
 | Nancy Drew |
 | Percy Jackson | 
 | Robin Centineo | 
+
+- Run the main.py script
+```sh
+ python3 main.py
+```
